@@ -1,7 +1,7 @@
 name: widget_toast
-description: A new Flutter package project.
+description: New package for widget toast using overlay
 version: 0.0.1
-homepage:
+homepage: https://github.com/sdycode/widget_toast.git
 
 environment:
   sdk: '>=2.18.0-44.1.beta <3.0.0'
@@ -24,8 +24,8 @@ dev_dependencies:
 flutter:
 
   # To add assets to your package, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/
   #   - images/a_dot_ham.jpeg
   #
   # For details regarding assets in packages, see
