@@ -1,19 +1,3 @@
-TODO: This package is to show widgets in toast form
-## Features
-
-TODO: It has features to show any widget in toast form
-
-## Getting started
-<h1>Widget Toast</h1>
-
-TODO: Just import package, call init method in initState and call static method to show toast
-
-## Usage
-
-TODO: it contains sample example whose image is given below.
-
-```dart
-
 
 
 import 'package:flutter/material.dart';
@@ -129,24 +113,15 @@ class _ToastOverlayState extends State<ToastOverlay> {
   }
 }
 
+/*
+Show toast in flutter without using Flutter Plugin.
+Create toast using overlay widget  with animation.
+Change opacity and position to get effect of Toast
 
-```
+Source code : https://gist.github.com/sdycode/6f580f49afa779e01230dbe1640c9eb9
 
-<table>
-  <tr>
-    <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(0).gif?raw=true" alt = "" width="200"></td>
-     <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(1).gif?raw=true" alt = "" width="200"></td>
-      <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(2).gif?raw=true" alt = "" width="200"></td>
-  </tr>
- 
-  <tr>
-   <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(3).gif?raw=true" alt = "" width="200"></td>
-    <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(4).gif?raw=true" alt = "" width="200"></td>
-     <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-21-17-629(0).gif?raw=true" alt = "" width="200"></td>
-  </tr>
-</table>
-
-
-## Additional information
-
-TODO: In future more animations will be added to show customised toast
+Music used in Video :
+Music credit goes to Epidemic Sound  :
+Turmoil : Rasmus Faber
+https://www.epidemicsound.com/artists/rasmus-faber/
+*/
