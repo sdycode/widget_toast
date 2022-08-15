@@ -1,6 +1,6 @@
 name: widget_toast
 description: New package for widget toast using overlay
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/sdycode/widget_toast.git
 
 environment:

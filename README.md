@@ -134,14 +134,15 @@ class _ToastOverlayState extends State<ToastOverlay> {
 
 <table>
   <tr>
-    <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(0).gif?raw=true" alt = "" width="200"></td>
-     <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(1).gif?raw=true" alt = "" width="200"></td>
-      <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(2).gif?raw=true" alt = "" width="200"></td>
+    <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/ezgif.com-gif-maker.gif?raw=true" alt = "" width="200"></td>
+     <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/ezgif.com-gif-maker%20(1).gif?raw=true" alt = "" width="200"></td>
+      <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/ezgif.com-gif-maker%20(2).gif?raw=true" alt = "" width="200"></td>
   </tr>
+  
  
   <tr>
-   <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(3).gif?raw=true" alt = "" width="200"></td>
-    <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-20-31-988(4).gif?raw=true" alt = "" width="200"></td>
+   <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/ezgif.com-gif-maker%20(3).gif?raw=true" alt = "" width="200"></td>
+    <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/ezgif.com-gif-maker%20(5).gif?raw=true" alt = "" width="200"></td>
      <td><img src="https://github.com/sdycode/widget_toast/blob/main/assets/Screenrecorder-2022-08-14-22-21-17-629(0).gif?raw=true" alt = "" width="200"></td>
   </tr>
 </table>

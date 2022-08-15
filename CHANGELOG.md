@@ -5,3 +5,8 @@
 ## 0.0.2
 
 * Gifs positioned changed
+
+## 0.0.3
+
+* Good quality gifs uploaded
+  
